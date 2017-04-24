@@ -1,0 +1,14 @@
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\bin\Debug\Acente.exe.config
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\bin\Debug\Acente.exe
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\bin\Debug\Acente.pdb
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.csprojResolveAssemblyReference.cache
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.araYüz.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.Form1.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.Kayit.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.Properties.Resources.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.sUnuttum.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.csproj.GenerateResource.Cache
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.exe
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.pdb
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.Not.resources
+C:\Users\Ergun\documents\visual studio 2013\Projects\Acente\Acente\obj\Debug\Acente.Tarih.resources
